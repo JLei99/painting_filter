@@ -1,5 +1,5 @@
 # painting_filter
-Take any picture and generate the painting filter
+Takes a picture and applies a painting filter.
 - Uses K-means algorithm for clustering pixel features.
 - Uses color quantization to generate the final result.
 
